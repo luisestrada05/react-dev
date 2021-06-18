@@ -1,0 +1,16 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+.categorias {
+  width: 300px;
+  border: solid 1px rgb(236, 235, 235);
+  border-radius: 5px;
+  padding: 30px;
+  background-color: #ececec;
+}
+ 

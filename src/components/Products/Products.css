@@ -1,0 +1,21 @@
+.producto {
+    background-color: #ececec;
+    margin: 20px;
+    padding: 35px;
+    border: solid 1px rgb(236, 235, 235);
+}
+
+.contenedor-tabla {
+    padding: 15px;
+    margin-top: 5px;
+}
+
+.buscador {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.img-previa {
+    width: 40px;
+    height: 70px;
+}
